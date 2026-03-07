@@ -1,0 +1,6 @@
+*   78eccec memecahkan masalah konflik
+|\  
+| * 7745876 docs: tambah komentar versi 1
+* | cf52df7 docs: tambah komentar versi 2
+|/  
+* 8ec4211 inisiasi github
