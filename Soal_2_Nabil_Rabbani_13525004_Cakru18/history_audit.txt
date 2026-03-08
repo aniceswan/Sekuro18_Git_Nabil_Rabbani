@@ -1,0 +1,30 @@
+  229  ls
+  230  cat history_audit.txt 
+  231  cd 
+  232  rm -rf recovery_ops/
+  233  cd last/
+  234  rm -rf Soal_2_Nabil_Rabbani_13525004_Cakru18/
+  235  ls
+  236  cd
+  237  ls
+  238  cd last/
+  239  mkdir Soal_2_Nabil_Rabbani_13525004_Cakru18
+  240  cd Soal_2_Nabil_Rabbani_13525004_Cakru18/
+  241  cp /home/nabil-rabbani/Downloads/Jawaban_1_a.pdf .
+  242  uname -sr && whoami 
+  243  cp /home/nabil-rabbani/Pictures/Screenshots/bukti_os.png .
+  244  udo apt update && sudo apt install build-essential
+  245  sudo apt update && sudo apt install build-essential
+  246  which g++ > compiler_trace.log && g++ --version | head -n 1 >> compiler_trace.log
+  247  cd
+  248  mkdir recovery_ops && cd recovery_ops
+  249  wget https://raw.githubusercontent.com/aryadiiptaa/YESS/refs/heads/main/system_raw.txt
+  250  head -n 1260 system_raw.txt | tail -n 11 > recovered_sector.txt
+  251  rm system_raw.txt 
+  252  code .
+  253  cd
+  254  cd last/
+  255  cd Soal_2_Nabil_Rabbani_13525004_Cakru18/
+  256  cp /home/nabil-rabbani/Pictures/Screenshots/bukti_vscode.png
+  257  cp /home/nabil-rabbani/Pictures/Screenshots/bukti_vscode.png .
+  258  history | tail -n 30 > history_audit.txt 
